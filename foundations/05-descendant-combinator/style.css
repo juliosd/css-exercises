@@ -1,0 +1,41 @@
+/* style.css */
+/* Below example of descendent combinators using two class selectors
+.container .text{
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+/* Below example of descendent combinators using element with class descendent combinator
+
+div .text{
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+ }
+ */
+/* Below example of descendent combinators using two elements
+div p {
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+ }
+*/
+/* Below example of descendent combinators using element with class descendent
+div .text {
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+*/
+/* Below example of descendent combinators usin class with element descendent */
+.container p {
+    color:red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
